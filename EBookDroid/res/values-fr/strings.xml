@@ -35,7 +35,7 @@
    <string name="fullscreen">Plein écran</string>
    <string name="go">OK</string>
    <string name="go_to_page_dialog">Aller à la page</string>
-   <string name="help_us_translate">Aider à la traduction</string>
+   <string name="help_us_translate">Aider à traduire</string>
    <string name="how_to_remove_ads_">Comment masquer les publicités ?</string>
    <string name="import_">Importer...</string>
    <string name="invert_colors">Inverser les couleurs</string>
@@ -129,7 +129,7 @@
    <string name="web">Toile</string>
    <string name="pro_pdf_description_ads_free">Programme sans annonces</string>
    <string name="volume_keys">Touches de volume</string>
-   <string name="this_function_will_works_in_modern_android">Cette fonction sera le travail dans Android moderne</string>
+   <string name="this_function_will_works_in_modern_android">Cette fonction sera travaillé dans Android moderne</string>
    <string name="import_or_export_application_settings_to_json_file">Importation ou exportation d\'application des paramètres de fichier JSON</string>
    <string name="menu">Menu</string>
    <string name="foot_notes">Note de bas de page</string>
@@ -146,7 +146,7 @@
    <string name="search_in_google">Recherche dans Google</string>
    <string name="reading_the_text_by_voice">La lecture du texte par la voix</string>
    <string name="sound_volume">Volume de la musique</string>
-   <string name="speed1">La vitesse</string>
+   <string name="speed1">Vitesse</string>
    <string name="pitch1">Pas son</string>
    <string name="to_stop">Arrêter</string>
    <string name="to_read">Lire</string>
@@ -200,7 +200,7 @@
    <string name="image_format">Format d\'image</string>
    <string name="more_reading_settings">Plus de paramètres de lecture</string>
    <string name="empty_line">Ligne vide</string>
-   <string name="apply_styles_from_the_document">Appliquer des styles du document</string>
+   <string name="apply_styles_from_the_document">Appliquer les styles du document</string>
    <string name="customize_background_color">Personnaliser la couleur de fond</string>
    <string name="enable_vibration_for_some_actions">Activer les vibrations pour certaines actions</string>
    <string name="center">Centre</string>
@@ -219,8 +219,8 @@
    <string name="color">Couleur</string>
    <string name="image">Image</string>
    <string name="transparency">Transparence</string>
-   <string name="write_feedback">Ecrire des commentaires</string>
-   <string name="book_settings">Réglages Réserver</string>
+   <string name="write_feedback">écrivez-nous un commentaire</string>
+   <string name="book_settings">Paramètres du livre</string>
    <string name="back">Arrière</string>
    <string name="open_web_page">Ouvrir une page Web</string>
    <string name="starred">Suivis</string>
@@ -453,6 +453,4 @@
    <string name="no_serie">Aucune série</string>
    <string name="no_genre">Aucun genre</string>
    <string name="no_author">Aucun auteur</string>
-   <string name="archives">Les archives</string>
-   <string name="other">Autre</string>
 </resources>
