@@ -285,8 +285,8 @@
    <string name="zoom_in_zoom_out">Увеличить/уменьшить в 2 раза</string>
    <string name="automatic_hyphenation">Авторасстановка переносов</string>
    <string name="bookmark_for_this_page_already_exists">Закладка для этой страницы уже существует</string>
-   <string name="bookmark_with_text">Закладка с названием</string>
-   <string name="fast_bookmark">Быстрая закладка</string>
+   <string name="bookmark_with_text">Заметка</string>
+   <string name="fast_bookmark">Закладка</string>
    <string name="reading_settings">Настройки чтения</string>
    <string name="db_auto_center_horizontally">Выровнить по горизонтали</string>
    <string name="licenses_for_libraries">Лицензии для библиотек</string>
@@ -330,8 +330,8 @@
    <string name="show_progress_of_reading">Отображать полосу прогресса</string>
    <string name="line_height">Толщина полосы прогресса</string>
    <string name="display_chapters_on_the_progress_line">Делать засечки глав в полосе прогресса</string>
-   <string name="enable_brightness_adjustment_on_the_left_of_the_screen">Регулировать яркость подсветки у левой границы экрана</string>
-   <string name="enable_rewind_of_pages_using_the_read_progress_line">Переходить между страницами скольжением пальца по строке состояния</string>
+   <string name="enable_brightness_adjustment_on_the_left_of_the_screen">Регулировать яркость скольжением по левому краю</string>
+   <string name="enable_rewind_of_pages_using_the_read_progress_line">Переходить между страницами скользя по строке состояния</string>
    <string name="catalogs">Каталоги</string>
    <string name="can_t_download">Скачать нельзя</string>
    <string name="download">Скачать</string>
@@ -357,7 +357,7 @@
    <string name="trim_borders">Границы обрезки</string>
    <string name="stop_reading_timer_">Остановить чтение через</string>
    <string name="two_pages_cover">Обложка, 2 страницы</string>
-   <string name="enhancements_for_oled_display">Заполнять пространство вокруг страниц черным цветом, если фон любого из ночных пресетов тоже черный (AMOLED-адаптация)</string>
+   <string name="enhancements_for_oled_display">Заполнять пространство вокруг страниц черным цветом, если фон любого из ночных пресетов тоже черный (amoled-адаптация)</string>
    <string name="reading_will_be_stopped">Чтение остановится в</string>
    <string name="compact">Полусписок</string>
    <string name="cd_search_books_in_the_library">Поиск книг в библиотеке</string>
@@ -421,7 +421,7 @@
    <string name="theme_color">Цвет темы</string>
    <string name="add_folder">Добавить еще путь</string>
    <string name="selecting_text_in_this_mode_does_not_work">Выделить текст нельзя</string>
-   <string name="scroll_speed">Шаг прокр. текста</string>
+   <string name="scroll_speed">Шаг прокр. текста колёсиком мышки</string>
    <string name="landscape_180">Альбомная (180°)</string>
    <string name="portrait_180">Портретная (180°)</string>
    <string name="full_list_of_changes_with_images_web_pdf_">Полный список изменений с иллюстрациями</string>
@@ -444,7 +444,7 @@
    <string name="edit_names">Свои названия</string>
    <string name="you_neet_to_apply_the_new_settings">Необходимо применить новые настройки</string>
    <string name="custom_value">Свое значение</string>
-   <string name="change_the_automatic_scrolling_speed_with_the_volume_keys">Менять скорость автопрокрутки текста клавишами регулировки громкости</string>
+   <string name="change_the_automatic_scrolling_speed_with_the_volume_keys">Менять скорость автопрокрутки клавишами громкости</string>
    <string name="mode_vertical">Режим свитка (вертик. листание)</string>
    <string name="mode_horizontally">Режим книги (гориз. листание)</string>
    <string name="mode_musician">Режим «Музыкант» (прокрутка нот)</string>
